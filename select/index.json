@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幸福なわがまま",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:40:16.045639Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸福なわがまま",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_幸福なわがまま_三月のパンタシア.txt"
+    }
+  ]
+}
